@@ -1,0 +1,10 @@
+
+General Understanding
+- Euclidean Distance V Manhattan Distance - http://www.diva-portal.org/smash/get/diva2:918778/FULLTEXT02.pdf 
+- Get world position from mouse position - https://www.youtube.com/watch?v=5NTmxDSKj-Q&ab_channel=GameDevBeginner
+
+A* Resources
+- Theory of A* Search - http://theory.stanford.edu/~amitp/GameProgramming/AStarComparison.html#:~:text=A*%20is%20the%20most%20popular,a%20heuristic%20to%20guide%20itself.
+- Another Implimentation of A* - https://github.com/SebLague/Pathfinding
+
+
